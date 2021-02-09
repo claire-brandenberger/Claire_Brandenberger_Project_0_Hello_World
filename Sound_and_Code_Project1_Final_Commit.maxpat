@@ -45,7 +45,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 203.5, 83.0, 59.0, 33.0 ],
+					"patching_rect" : [ 203.5, 83.0, 63.0, 33.0 ],
 					"text" : "click here to begin"
 				}
 
@@ -57,7 +57,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 526.0, 625.5, 235.0, 100.0 ],
+					"patching_rect" : [ 526.0, 625.5, 236.0, 100.0 ],
 					"text" : "each section is delayed 10 seconds away from the prior and build off one another.  the first section is 60 seconds and plays for the 60 seconds.  The second section is 50 seconds long and starts 10 seconds in etc...  by the end, all sectiosn will be playing together"
 				}
 
@@ -93,7 +93,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1112.0, 138.0, 88.0, 47.0 ],
+					"patching_rect" : [ 1112.0, 138.0, 91.0, 47.0 ],
 					"text" : "these numbers send a value to the gain"
 				}
 
@@ -105,7 +105,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1120.5, 48.0, 88.5, 74.0 ],
+					"patching_rect" : [ 1120.5, 48.0, 91.0, 74.0 ],
 					"text" : "these numbers send the number value to the cycle for the sine wave"
 				}
 
@@ -117,7 +117,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 107.0, 6.5, 136.0, 47.0 ],
+					"patching_rect" : [ 107.0, 6.5, 139.0, 47.0 ],
 					"text" : "for each section there is a loadbang which loads all number values"
 				}
 
@@ -250,7 +250,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 394.5, 177.0, 29.5, 22.0 ],
-					"text" : "71"
+					"text" : "73"
 				}
 
 			}
@@ -1180,7 +1180,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 321.0, 209.0, 22.0, 140.0 ]
+					"patching_rect" : [ 321.0, 214.0, 22.0, 140.0 ]
 				}
 
 			}
@@ -1255,7 +1255,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "signal", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 374.0, 209.0, 22.0, 140.0 ]
+					"patching_rect" : [ 374.0, 214.0, 22.0, 140.0 ]
 				}
 
 			}
