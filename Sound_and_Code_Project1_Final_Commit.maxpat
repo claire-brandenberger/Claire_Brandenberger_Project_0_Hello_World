@@ -57,7 +57,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 526.0, 625.5, 236.0, 100.0 ],
+					"patching_rect" : [ 547.0, 649.5, 236.0, 100.0 ],
 					"text" : "each section is delayed 10 seconds away from the prior and build off one another.  the first section is 60 seconds and plays for the 60 seconds.  The second section is 50 seconds long and starts 10 seconds in etc...  by the end, all sectiosn will be playing together"
 				}
 
@@ -129,7 +129,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 889.0, 598.0, 150.0, 74.0 ],
+					"patching_rect" : [ 889.0, 649.5, 150.0, 74.0 ],
 					"text" : "Claire Brandenberger\nDigital wind\nsounds like air going througha screendoor on a whindy night"
 				}
 
@@ -1459,6 +1459,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-11", 0 ],
+					"midpoints" : [ 805.5, 636.0, 354.0, 636.0 ],
 					"source" : [ "obj-103", 0 ]
 				}
 
@@ -1546,6 +1547,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-11", 1 ],
+					"midpoints" : [ 1039.5, 636.0, 380.0, 636.0 ],
 					"source" : [ "obj-115", 0 ]
 				}
 
@@ -1593,6 +1595,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-11", 1 ],
+					"midpoints" : [ 116.5, 639.0, 380.0, 639.0 ],
 					"order" : 0,
 					"source" : [ "obj-12", 0 ]
 				}
@@ -1601,6 +1604,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-11", 0 ],
+					"midpoints" : [ 116.5, 639.0, 354.0, 639.0 ],
 					"order" : 1,
 					"source" : [ "obj-12", 0 ]
 				}
@@ -2277,6 +2281,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-11", 1 ],
+					"midpoints" : [ 354.5, 639.0, 380.0, 639.0 ],
 					"order" : 0,
 					"source" : [ "obj-32", 0 ]
 				}
@@ -2285,6 +2290,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-11", 0 ],
+					"midpoints" : [ 354.5, 606.0, 354.0, 606.0 ],
 					"order" : 1,
 					"source" : [ "obj-32", 0 ]
 				}
@@ -2394,6 +2400,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-11", 1 ],
+					"midpoints" : [ 580.5, 591.0, 588.0, 591.0, 588.0, 636.0, 380.0, 636.0 ],
 					"order" : 0,
 					"source" : [ "obj-91", 0 ]
 				}
@@ -2402,6 +2409,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-11", 0 ],
+					"midpoints" : [ 580.5, 591.0, 588.0, 591.0, 588.0, 636.0, 354.0, 636.0 ],
 					"order" : 1,
 					"source" : [ "obj-91", 0 ]
 				}
