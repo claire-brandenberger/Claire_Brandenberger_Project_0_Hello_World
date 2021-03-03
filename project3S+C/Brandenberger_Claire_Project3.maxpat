@@ -45,7 +45,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 521.0, 672.0, 150.0, 74.0 ],
+					"patching_rect" : [ 565.5, 626.0, 150.0, 74.0 ],
 					"text" : "Claire Brandenberger\n3/2/2021\nWaking up to an alarm after a dream and being disoriented.s"
 				}
 
@@ -424,7 +424,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 98.0, 117.0, 150.0, 33.0 ],
+									"patching_rect" : [ 98.0, 131.0, 150.0, 33.0 ],
 									"text" : "low frequency makes it so you can hear the vibrato"
 								}
 
@@ -895,7 +895,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-17",
@@ -1055,7 +1054,7 @@
 									"numinlets" : 3,
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "bang" ],
-									"patching_rect" : [ 29.25, 176.0, 107.0, 22.0 ],
+									"patching_rect" : [ 34.25, 172.0, 107.0, 22.0 ],
 									"text" : "5Note_Motive_FM"
 								}
 
@@ -2186,7 +2185,6 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-32",
@@ -2312,7 +2310,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 98.0, 117.0, 150.0, 47.0 ],
+									"patching_rect" : [ 98.0, 124.0, 150.0, 47.0 ],
 									"text" : "higher frequency makes it so you can hear the fm synthesis"
 								}
 

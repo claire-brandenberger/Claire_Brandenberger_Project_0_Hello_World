@@ -188,7 +188,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 117.5, 152.0, 69.5, 20.0 ],
+					"patching_rect" : [ 117.5, 152.0, 70.0, 20.0 ],
 					"text" : "harmonicity"
 				}
 
@@ -715,7 +715,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 50.0, 183.0, 29.5, 22.0 ],
+					"patching_rect" : [ 33.5, 179.0, 29.5, 22.0 ],
 					"text" : "100"
 				}
 
@@ -830,7 +830,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-64", 0 ],
-					"midpoints" : [ 59.5, 319.0, 375.49999600000001, 319.0 ],
+					"midpoints" : [ 43.0, 319.0, 375.49999600000001, 319.0 ],
 					"order" : 3,
 					"source" : [ "obj-50", 0 ]
 				}
